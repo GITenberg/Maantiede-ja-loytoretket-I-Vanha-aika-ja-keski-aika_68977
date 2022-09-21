@@ -1,0 +1,31 @@
+_repo: Maantiede-ja-loytoretket-I-Vanha-aika-ja-keski-aika_68977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+    wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+description: ''
+gutenberg_issued: '2022-09-12'
+identifiers:
+  gutenberg: '68977'
+language: fi
+pgterms:marc905: 20220621085952inha
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :WSOY,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Maantiede ja löytöretket I: Vanha aika ja keski aika'
+url: http://www.gutenberg.org/ebooks/68977
