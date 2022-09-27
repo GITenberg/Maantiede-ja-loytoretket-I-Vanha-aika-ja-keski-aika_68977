@@ -1,5 +1,8 @@
 _repo: Maantiede-ja-loytoretket-I-Vanha-aika-ja-keski-aika_68977
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Inha, Into Konrad
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4411
     wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68977#Maantiede-ja-loytoretket-I-Vanha-aika-ja-keski-aika
 gutenberg_issued: '2022-09-12'
 identifiers:
   gutenberg: '68977'
